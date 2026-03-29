@@ -1,110 +1,28 @@
 🍽️ Zomato Restaurant Data Analysis
 
-End-to-end Data Analysis Project using Python, Google Colab & Pandas
+End-to-end data analysis project using Python to uncover insights on restaurant trends, pricing, and customer ratings.
 
-📌 Project Overview
+📌 Overview
 
-This project analyzes the Zomato restaurant dataset to uncover patterns in pricing, cuisines, customer ratings, and restaurant distribution across different cities.
-The goal is to clean the dataset, explore key insights, engineer useful features, and visualize trends through meaningful charts.
+Analyzed Zomato dataset to identify patterns in cuisines, cost distribution, and ratings. Performed data cleaning, feature engineering, and visualization to extract actionable insights.
 
-🗂️ Files Included
+🛠️ Tech Stack
 
-notebook.ipynb — Complete Google Colab notebook (cleaning + EDA + ML)
+Python, Pandas, NumPy, SQL, Matplotlib, Seaborn
 
-zomato_cleaned.csv — Final cleaned dataset
+🔍 Key Work
+Cleaned and processed 10,000+ records
+Performed EDA to analyze pricing, ratings, and cuisines
+Engineered features like price categories and rating labels
+Built visualizations to highlight trends and patterns
+📊 Key Insights
+Identified most popular cuisines and high-demand locations
+Analyzed relationship between cost and ratings
+Highlighted top-performing restaurant segments
+🚀 Run the Project
 
-README.md — Project documentation
+Open the notebook in Jupyter/Colab → run all cells
 
-🛠️ Technologies Used
-
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Scikit-Learn (optional ML model)
-
-Google Colab
-
-🔍 Key Steps Performed
-1️⃣ Data Cleaning
-
-Removed duplicates
-
-Handled missing values
-
-Converted numeric columns
-
-Cleaned cuisine and rating columns
-
-Standardized column names
-
-Merged country mapping file
-
-2️⃣ Feature Engineering
-
-Extracted primary cuisine
-
-Price brackets (Cheap, Affordable, Expensive, Premium)
-
-Rating labels (Low, Medium, High)
-
-3️⃣ Exploratory Data Analysis (EDA)
-
-Top cuisines
-
-Rating distribution
-
-Cost analysis by city/locality
-
-Restaurant distribution by country
-
-Votes & popularity trends
-
-4️⃣ Visualization
-
-Bar charts
-
-Histograms
-
-Heatmaps
-
-Aggregated summaries
-
-5️⃣ Optional Machine Learning
-
-A simple Random Forest model to predict whether a restaurant will be high-rated (≥ 4).
-
-📊 Insights (Examples)
-
-Which cuisines are most common
-
-Which cities have the highest restaurant concentration
-
-Which areas are most expensive
-
-How cost relates to ratings
-
-Which factors influence high ratings
-
-🚀 How to Run
-
-Open notebook.ipynb in Google Colab or Jupyter
-
-Upload the dataset
-
-Run cells from top to bottom
-
-View charts & summaries
-
-📧 Author
+👤 Author
 
 Shubham Tiwari
-Data Science & AI Student
-
-⭐ Give this repo a star if you like the project!
