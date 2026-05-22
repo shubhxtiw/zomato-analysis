@@ -1,24 +1,23 @@
 🍽️ Zomato Restaurant Data Analysis (IBM Recognized Project 🏆)
 
-End-to-end restaurant data analysis project using Python and SQL to uncover customer behavior, pricing trends, and restaurant performance insights. Appreciated by IBM representatives for analytical quality and business understanding, and received IBM goodies for outstanding project execution.
+An end-to-end restaurant analytics project focused on extracting meaningful business insights from Zomato data using Python and SQL. The project was appreciated by IBM representatives for its analytical depth, structured approach, and presentation quality.
 
 Tech Stack
 
 Python • SQL • Pandas • NumPy • Matplotlib • Seaborn
 
-Key Work
-Cleaned and processed 10,000+ restaurant records
-Performed EDA on pricing, ratings, cuisines, and locations
-Built visualizations to identify trends and customer preferences
-Created feature categories for pricing and restaurant segmentation
-Delivered business-focused insights through data storytelling
-Key Insights
-Identified top-performing cuisines and high-demand locations
-Analyzed relationship between pricing and customer ratings
-Highlighted restaurant segments with better customer engagement
-Generated actionable insights for growth and customer targeting
+Key Highlights
+Processed and analyzed 10,000+ restaurant records
+Performed data cleaning and exploratory data analysis (EDA)
+Analyzed pricing trends, ratings, cuisines, and customer preferences
+Built visualizations to identify business patterns and market trends
+Generated insights for restaurant performance and customer engagement
+Business Insights
+Identified high-demand cuisines and top-performing locations
+Discovered patterns between pricing and customer ratings
+Highlighted customer preference trends across restaurant categories
+Delivered data-driven insights for better business decision-making
 
-🏆 Recognition:
-Recognized and appreciated by IBM representatives for exceptional analytics work and presentation quality. Received official appreciation and IBM goodies.
+🏆 Appreciated by IBM representatives for exceptional analytics execution and business-oriented insight generation.
 
 👤 Author: Shubham Tiwari
